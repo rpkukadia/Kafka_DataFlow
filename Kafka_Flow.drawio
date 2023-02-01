@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-01T18:46:26.697Z" agent="5.0 (Windows)" etag="lckMXWSdBV55KT-qgTHw" version="20.8.14" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-01T20:53:43.662Z" agent="5.0 (Windows)" etag="GYW5U--LAt0FmvgqUBE3" version="20.8.14" type="github">
   <diagram name="Page-1" id="c7558073-3199-34d8-9f00-42111426c3f3">
     <mxGraphModel dx="794" dy="394" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="826" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
@@ -19,10 +19,10 @@
         <mxCell id="64" value="EDS Kafka&#xa;(On-Prem)" style="text;spacingTop=-5;align=center" parent="1" vertex="1">
           <mxGeometry x="215.5000000000001" y="124.69000000000011" width="30" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="82" value="Consumer" style="text;spacingTop=-5;align=center" parent="1" vertex="1">
+        <mxCell id="82" value="Consumer" style="text;spacingTop=-5;align=center;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="360.0000000000004" y="23.16000000000014" width="30" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="84" value="Producer" style="text;spacingTop=-5;align=center" parent="1" vertex="1">
+        <mxCell id="84" value="Producer" style="text;spacingTop=-5;align=center;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="88.25000000000017" y="23.160000000000224" width="30" height="20" as="geometry" />
         </mxCell>
         <mxCell id="94" value="Enterprise Data Warehouse" style="text;spacingTop=-5;align=center" parent="1" vertex="1">
